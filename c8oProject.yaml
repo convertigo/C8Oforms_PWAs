@@ -1,8 +1,7 @@
 ↑convertigo: 8.0.0.m006
-↓f [core.Project]: 
-  comment: Mashup Sequencer project
+↓C8Oforms_PWAs [core.Project]: 
+  comment: Project designed to host Convertigo no-code studio PWAs
   contextTimeout: 59
   corsOrigin: =Origin
   httpSessionTimeout: 60
   ↓void [connectors.SqlConnector]: 🗏 connectors/void.yaml
-  ↓NewSequence [sequences.GenericSequence]: 🗏 sequences/NewSequence.yaml
